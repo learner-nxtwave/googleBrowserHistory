@@ -1,0 +1,26 @@
+.historyItemContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.logoDetails {
+  display: flex;
+  align-items: center;
+  margin-left: 35px;
+}
+.logoSize {
+  width: 35px;
+  height: 35px;
+  margin-right: 8px;
+}
+.detailsContainer {
+  display: flex;
+  flex-direction: row;
+
+  align-items: center;
+}
+.button {
+  background-color: transparent;
+  border-style: none;
+}
